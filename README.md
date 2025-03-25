@@ -5,4 +5,3 @@ This project covers the end to end understanding for creating an ML pipeline  an
 ## dvc init 
 ## dvc repro
 ## Dvc exp run for experiment tracking 
-## dvc exp apply "Experiment_name"
